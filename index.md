@@ -7,7 +7,7 @@ Hi! I am a Cognitive Science and Computer Science-to-be student here at RPI.
 I am also in the acapella Partial Credit here at RPI, and this is a picture of 
 my backstage with our "Appa" (Avatar themed concert). 
 
-[image] (oss-repo-template/oss_pic.jpg)
+[image] (/oss-repo-template/oss_pic.jpg)
 
 
 
