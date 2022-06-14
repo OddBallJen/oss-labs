@@ -3,7 +3,11 @@
 ## Part 1
 
 ### 2. https://github.com/OddBallJen/oss-repo-template/wiki/Project-Idea-6-13 
-### 
+### 5. ![image](https://user-images.githubusercontent.com/57297201/173490874-81cab877-4157-4c45-adf7-aeb84e2eea5f.png)
+
+
+
+"C:\Users\lisay\OneDrive\Documents\git\CSCI-4470-OpenSource\Modules\01.Introduction\History\build\latex\introduction.pdf"
 
 
 ## Part 2
