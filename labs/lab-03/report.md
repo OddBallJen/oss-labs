@@ -2,6 +2,9 @@
 
 ## Part 1
 
+### 2. https://github.com/OddBallJen/oss-repo-template/wiki/Project-Idea-6-13 
+### 
+
 
 ## Part 2
 
@@ -91,6 +94,12 @@ In Gitstats, there's more 6 more contributors and 58318 lines of code compared t
 
 
 ### 5
+Sadly I could not get my gource to work and it gave me these errors:
+error: XDG_RUNTIME_DIR not set in the environment.
+gource: SDL initialization failed - No available video device
+And I tried searching online but couldn't find any fixes that worked for me
+
+
 
 
 
