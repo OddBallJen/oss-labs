@@ -24,8 +24,26 @@ They help me debug because they tell me what the line number is and they tell me
 **Q3:** Find a system that is close to your specific configuration in the Nightly, Nightly Expected or one of the Masters sections. How clean is the dashboard? Are there any errors that you need to be concerned with?
 
 **Ans:**  
+[https://open.cdash.org/build/8040502](https://open.cdash.org/build/8041105)
+They are also running Ubuntu 20 on Windows
+
+![image](https://user-images.githubusercontent.com/57297201/179313177-e9efadbb-a677-4b46-bcfb-2926a22a9ad0.png)
+I had an error that is Curl (test 25) , which they also had above, I also had test 26 not run. There is two errors on mine and three above. 
+
+![image](https://user-images.githubusercontent.com/57297201/179313372-9cf46cfb-f85a-4590-8935-b0438c328545.png)
+These are my passed tests. 
 
 ### Checkpoint 3
+
+For Test 25, the information of the failure provided is that 
+
+For test 26, the information of the failure provided is that the file is missing. 
+
+-vv is very verbose, which displays all error information including the input and outputs. 
+
+![image](https://user-images.githubusercontent.com/57297201/179314393-0884eb1f-02eb-4b75-a519-eb9548cef898.png)
+![image](https://user-images.githubusercontent.com/57297201/179314716-337656cd-e009-48b9-8dab-fc2f0af679a5.png)
+These are my errors 
 
 ### Checkpoint 4
 
