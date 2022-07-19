@@ -45,7 +45,8 @@ For test 26, the information of the failure provided is that the file is missing
 ![image](https://user-images.githubusercontent.com/57297201/179314716-337656cd-e009-48b9-8dab-fc2f0af679a5.png)
 These are my errors 
 
-I try running it again and it said test not found, and then I build it again and it still said test not found. But 
+I try running it again and it said test not found, and then I build it again and it still said test not found. I think there is something wrong with my ubuntu system 
+or cmake system. 
 
 ### Checkpoint 4
 
