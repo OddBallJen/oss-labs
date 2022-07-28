@@ -47,7 +47,57 @@ on my `localhost:5000`
 ![image](https://user-images.githubusercontent.com/57297201/181400372-14a889b1-59fe-450e-b969-54adbd944887.png)
 
 
+## Example 04
 
+I created a Dockerfile and typed in the things. 
+
+When I tried to run the first command it broke my computer. I am sure I am on the right branch. I shall try again. 
+
+I tried running it and this error popped up
+
+![image](https://user-images.githubusercontent.com/57297201/181406854-79abac16-c2d0-4088-972f-acb78133b1ce.png)
+
+
+so I added a .dockerignore file in the directory of messageApp and added the following
+
+`
+./log
+./tmp
+.git
+*Dockerfile*
+*docker-compose*
+node_modules
+`
+And it ran successfully! 
+
+This is docker images  
+![image](https://user-images.githubusercontent.com/57297201/181407101-89a3b607-d901-4c5a-b9b2-8a2eaa0fcb9c.png)
+
+` docker run message-app ` failed as indicated in the example. 
+
+So I created the .yml file
+And ran the compose build and ran it. 
+
+![image](https://user-images.githubusercontent.com/57297201/181407828-4e9ec806-fd06-412e-80a0-84db67d1d8d9.png)
+there's a boat!
+
+` curl http://localhost:1337/message `
+
+![image](https://user-images.githubusercontent.com/57297201/181408065-1dea6f59-4967-4a15-9ad0-a563d07bca3d.png)
+
+after adding the messages:  
+![image](https://user-images.githubusercontent.com/57297201/181408257-8c443f18-be85-441c-bad5-c26871a32a0e.png)
+
+When I tried to edit the messages I got this error:
+![image](https://user-images.githubusercontent.com/57297201/181408407-10463261-71a5-44fb-88ad-def896198fad.png)
+so I ran the following instead
+![image](https://user-images.githubusercontent.com/57297201/181408779-64b9da43-dc29-45a2-8720-d2fe36648b8f.png)
+
+![image](https://user-images.githubusercontent.com/57297201/181409148-a42cfeab-2cdd-445f-ac20-84d9335f2f53.png)
+
+After running delete:  
+
+![image](https://user-images.githubusercontent.com/57297201/181409230-72217f46-85e7-4937-87d7-cb4797243ada.png)
 
 
 
