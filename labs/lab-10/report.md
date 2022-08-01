@@ -6,3 +6,8 @@ https://github.com/OddBallJen/oss-labs/wiki/Lab-10-Checkpoint-0
 
 ### Checkpoint 1
 
+(I used FireFox)
+![image](https://user-images.githubusercontent.com/57297201/182233301-b0615843-ba32-4e88-ad1a-6fa1e19c6713.png)
+
+
+
