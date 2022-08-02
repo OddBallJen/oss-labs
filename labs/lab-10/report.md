@@ -12,6 +12,9 @@ https://github.com/OddBallJen/oss-labs/wiki/Lab-10-Checkpoint-0
 
 ### Checkpoint 2
 
+---------
+### 1.6.1
+
 ![image](https://user-images.githubusercontent.com/57297201/182253227-c340a555-fc84-4836-9f8f-34bbd0a8ab82.png)  
 
 `curl -X GET http://admin:password@127.0.0.1:5984/_all_dbs` getting all dbs:  
@@ -20,8 +23,39 @@ https://github.com/OddBallJen/oss-labs/wiki/Lab-10-Checkpoint-0
 `curl -X PUT http://admin:password@127.0.0.1:5984/oss`:  
 ![image](https://user-images.githubusercontent.com/57297201/182413266-542d24b7-46fb-4ac6-9d3e-2eb1f18fae4d.png)  
 
-
+`curl -X PUT http://admin:password@127.0.0.1:5984/oss2` twice:    
 ![image](https://user-images.githubusercontent.com/57297201/182413496-6fc25a1b-446f-4d67-ac41-339a64414907.png)
+
+`curl -X DELETE http://admin:password@127.0.0.1:5984/oss2`:  
+![image](https://user-images.githubusercontent.com/57297201/182414081-6f3ca0de-64e4-4785-b4c1-7c71a91cb97b.png)
+
+### 1.6.2   
+logging in:  
+![image](https://user-images.githubusercontent.com/57297201/182414509-b88f9eee-2fcc-4768-a077-13b64b30eecf.png)
+
+### 1.6.3
+First DB and doc:   
+
+![image](https://user-images.githubusercontent.com/57297201/182415663-0a063da9-8fd6-41d9-a38f-d698f00d864a.png)
+
+### 1.6.4
+I created three movie files   
+![image](https://user-images.githubusercontent.com/57297201/182416477-d34c2ef8-d345-4888-9b21-b9d1c33a20f0.png)
+
+Then ran query:  
+![image](https://user-images.githubusercontent.com/57297201/182419415-63f9de34-3a51-4fe3-915c-fd06c8796bbd.png)
+
+### 1.6.5
+Replication:  
+![image](https://user-images.githubusercontent.com/57297201/182420782-32d40a9b-f4a0-4bbb-86fa-5ba009ec80ae.png)
+
+
+
+
+
+
+
+
 
 
 
