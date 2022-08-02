@@ -76,8 +76,11 @@ Put things in my documents
 Revised with no \_rev, then with correct rev. 
 ![image](https://user-images.githubusercontent.com/57297201/182465020-eca51133-5c35-4927-bc24-f14eda2858a8.png)
 
+1.7.3.2   
+Put item but with -v to see details.   
+![image](https://user-images.githubusercontent.com/57297201/182466922-774aa95f-815c-445b-b71f-a29dc012e42d.png)
 
-
+1.7.3
 
 
 
