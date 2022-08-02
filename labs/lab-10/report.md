@@ -47,7 +47,11 @@ Then ran query:
 
 ### 1.6.5
 Replication:  
-![image](https://user-images.githubusercontent.com/57297201/182420782-32d40a9b-f4a0-4bbb-86fa-5ba009ec80ae.png)
+![image](https://user-images.githubusercontent.com/57297201/182422016-8377575a-a3f8-4557-be6b-cb3538a73e6d.png)
+
+![image](https://user-images.githubusercontent.com/57297201/182422074-1fd1c21d-a225-47a5-909c-dae9f9f13ead.png)
+
+
 
 
 
