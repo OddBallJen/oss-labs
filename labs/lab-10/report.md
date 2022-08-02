@@ -69,9 +69,12 @@ Delete:
 ![image](https://user-images.githubusercontent.com/57297201/182426190-2d4cd627-3dd9-42ec-8977-0d029d7c095e.png)
 
 ### 1.7.3
-
+Put things in my documents   
 ![image](https://user-images.githubusercontent.com/57297201/182427029-c350cf16-0717-4e0a-98be-eb825f808969.png)
 
+1.7.3.1 
+Revised with no \_rev, then with correct rev. 
+![image](https://user-images.githubusercontent.com/57297201/182465020-eca51133-5c35-4927-bc24-f14eda2858a8.png)
 
 
 
