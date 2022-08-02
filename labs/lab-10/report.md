@@ -52,6 +52,19 @@ Replication:
 ![image](https://user-images.githubusercontent.com/57297201/182422074-1fd1c21d-a225-47a5-909c-dae9f9f13ead.png)
 
 
+### Checkpoint 
+----------------------------
+### 1.7.1
+`curl http://127.0.0.1:5984/`   
+![image](https://user-images.githubusercontent.com/57297201/182425137-b0626569-1ce7-428a-8d0a-0b844c336631.png)
+
+### 1.7.2
+
+Creating a db called 'album', creating it again (error), and creating backup with -v
+![image](https://user-images.githubusercontent.com/57297201/182425532-a2e4926d-133a-4ec4-995d-7312996dbb78.png)
+
+
+
 
 
 
