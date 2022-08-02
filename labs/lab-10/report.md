@@ -33,6 +33,7 @@ https://github.com/OddBallJen/oss-labs/wiki/Lab-10-Checkpoint-0
 logging in:  
 ![image](https://user-images.githubusercontent.com/57297201/182414509-b88f9eee-2fcc-4768-a077-13b64b30eecf.png)
 
+
 ### 1.6.3
 First DB and doc:   
 
@@ -64,8 +65,12 @@ Creating a db called 'album', creating it again (error), and creating backup wit
 ![image](https://user-images.githubusercontent.com/57297201/182425532-a2e4926d-133a-4ec4-995d-7312996dbb78.png)
 
 
+Delete:  
+![image](https://user-images.githubusercontent.com/57297201/182426190-2d4cd627-3dd9-42ec-8977-0d029d7c095e.png)
 
+### 1.7.3
 
+![image](https://user-images.githubusercontent.com/57297201/182427029-c350cf16-0717-4e0a-98be-eb825f808969.png)
 
 
 
