@@ -80,7 +80,20 @@ Revised with no \_rev, then with correct rev.
 Put item but with -v to see details.   
 ![image](https://user-images.githubusercontent.com/57297201/182466922-774aa95f-815c-445b-b71f-a29dc012e42d.png)
 
-1.7.3
+1.7.3.3
+I ran the line to put the image in
+` curl -vX PUT http://admin:password@127.0.0.1:5984/albums/6e1295ed6c29495e54cc05947f18c8af/artwork.jpg?rev=2-a0ecd0b4133f5d5824078835d510c231 --data-binary @artwork.jpg -H "Content-Type:image/jpg"`  
+
+![image](https://user-images.githubusercontent.com/57297201/182510659-5a2af5fc-4732-4ced-83fc-709cdd735071.png)
+
+![image](https://user-images.githubusercontent.com/57297201/182510711-ea5be1bc-ed0e-4db3-b06e-66802767f3f1.png)
+
+I opened it up on the server   
+![image](https://user-images.githubusercontent.com/57297201/182510817-7b869e00-40fa-49ed-84df-d609d42f17f6.png)
+
+![image](https://user-images.githubusercontent.com/57297201/182510863-6899cca6-f637-4917-832f-2ad8fe249fc8.png)
+
+
 
 
 
