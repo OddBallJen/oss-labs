@@ -94,7 +94,35 @@ I opened it up on the server
 ![image](https://user-images.githubusercontent.com/57297201/182510863-6899cca6-f637-4917-832f-2ad8fe249fc8.png)
 
 
+### 1.7.4  
+`curl -X PUT http://admin:password@127.0.0.1:5984/albums-replica`
 
+`curl -vX POST http://admin:password@127.0.0.1:5984/_replicate \
+     -d '{"source":"http://admin:password@127.0.0.1:5984/albums",\
+          "target":"http://admin:password@127.0.0.1:5984/albums-replica"}' \
+     -H "Content-Type: application/json"`
+     
+![image](https://user-images.githubusercontent.com/57297201/182513417-7179f3c1-93c7-4be5-95dc-3a415669cd95.png)
+
+
+Professor said we don't have to worry about the remote stuff.
+
+### Checkpoint 4
+
+1. 
+![image](https://user-images.githubusercontent.com/57297201/182515532-b942d0fe-eb26-4f8e-a52d-b605c9b10147.png)
+
+
+2.  ![image](https://user-images.githubusercontent.com/57297201/182516058-3738ffbc-d3dc-4b01-83bd-698f2273df31.png)
+
+3.  
+![image](https://user-images.githubusercontent.com/57297201/182516188-88f61511-8d55-454c-a804-8b1a9e0bad38.png)
+
+
+![image](https://user-images.githubusercontent.com/57297201/182516547-8d9d6b09-7b54-4722-b832-ac55450390dd.png)
+
+4.  
+![image](https://user-images.githubusercontent.com/57297201/182516634-e3593986-fd98-4dc4-805f-bde253587487.png)
 
 
 
