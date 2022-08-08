@@ -15,7 +15,14 @@ In line 133 I changed i to i+9000:
 
 ### Checkpoint 3 
 
+Original images: a T-shirt, a dress and jeans:   
 ![image](clothes1.jpg)
 ![image](clothes2.jpg)
 ![image](clothes3.jpg)
+
+Processed images:   
+![image](clothes_edited.jpg)
+![image](clothes2_edited.jpg)
+![image](clothes3_edited.jpg)
+
 
