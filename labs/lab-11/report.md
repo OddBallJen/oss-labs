@@ -15,14 +15,27 @@ In line 133 I changed i to i+9000:
 
 ### Checkpoint 3 
 
-Original images: a T-shirt, a dress and jeans:   
+Image 1 (jeans):  
 ![image](clothes1.jpg)
-![image](clothes2.jpg)
-![image](clothes3.jpg)
-
-Processed images:   
 ![image](clothes_edited.jpg)
-![image](clothes2_edited.jpg)
-![image](clothes3_edited.jpg)
+![image](https://user-images.githubusercontent.com/57297201/183529816-12109017-1f76-44eb-abc6-a6d7bafceeb9.png)
+![image](https://user-images.githubusercontent.com/57297201/183530102-12131980-5569-47bc-80d4-21cf5cd4ab66.png)
 
+
+Image2 (dress) 
+![image](clothes2.jpg)  
+![image](clothes2_edited.jpg)
+![image](https://user-images.githubusercontent.com/57297201/183530048-95339bd5-0964-465c-ba43-8e9076259181.png)
+![image](https://user-images.githubusercontent.com/57297201/183530121-d031198c-5c54-4ebc-b02c-b1939baa4e88.png)
+
+
+
+Image3 (T-shirt)
+![image](clothes3.jpg)
+![image](clothes3_edited.jpg)
+![image](https://user-images.githubusercontent.com/57297201/183530050-47405a45-fc16-4b49-9a80-0332607950cc.png)
+![image](https://user-images.githubusercontent.com/57297201/183530140-f04fd7d7-c2b6-4200-8523-c38b004e2998.png)
+
+
+Seems like everything is a bag...... 0/3
 
